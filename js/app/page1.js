@@ -2,7 +2,7 @@
  * JS for page1.html
  */
 requirejs.config({
-    baseUrl: 'js/'
+    baseUrl: '../js/'
 });
 
 requirejs(["lib/jquery", "utils/print"], function(print) {

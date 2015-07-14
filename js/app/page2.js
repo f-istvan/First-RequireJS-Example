@@ -2,7 +2,7 @@
  * JS for page2.html
  */
 requirejs.config({
-    baseUrl: 'js/'
+    baseUrl: '../js/'
 });
 
 requirejs(["utils/print", "modules/address"], function(print, address) {

@@ -1,3 +1,3 @@
 ===========================
-My first require.js exapmle
+My first Require.js exapmle
 ===========================

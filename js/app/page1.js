@@ -7,6 +7,7 @@ requirejs.config({
 
 requirejs(["lib/jquery", "utils/print"], function(print) {
 	log("it works");
+	/** Using jQuery **/
 	var hOne = $("h1");
 	log(hOne);
 });
